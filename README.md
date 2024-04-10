@@ -1,11 +1,11 @@
 简体中文 | [English](./README_EN.md)
 
 <p>
-<strong><h2>Aurora</h2></strong>
+<strong><h2>Kong</h2></strong>
 简单的小主页，原来的看够了，重新弄了一个
 </p>
 
-![Auroraの主页](https://s2.loli.net/2022/07/14/K5JigfvDoNewtuS.webp)
+!kongの主页](https://kong-home.vercel.app/)
 
 >主页的 Logo 字体已经过压缩，若用本站 Logo 以外的字母会变回默认字体，这里是 [完整字体](https://file.imsyy.top/font/Pacifico-Regular.ttf)
 
@@ -13,7 +13,7 @@
 
 >由于 CDN 缓存原因，查看最新效果可能需要 `Ctrl` + `F5` 强制刷新浏览器缓存
 
-- [Auroraの主页](http://www.wuhobin.top)
+- [Kongの主页](https://kong-home.vercel.app/)
 
 
 ### 功能
